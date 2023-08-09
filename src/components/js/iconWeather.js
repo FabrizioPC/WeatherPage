@@ -1,0 +1,21 @@
+const iconWeather = {
+   "01d": "/images/icons/clearSky1.png",
+   "01n": "/images/icons/clearSky2.png",
+   "02d": "/images/icons/fewClouds1.png",
+   "02n": "/images/icons/fewClouds2.png",
+   "03d": "/images/icons/scatteredClouds1.png",
+   "03n": "/images/icons/scatteredClouds1.png",
+   "04d": "/images/icons/brokenClouds1.png",
+   "04n": "/images/icons/brokenClouds1.png",
+   "09d": "/images/icons/showerRain1.png",
+   "09n": "/images/icons/showerRain1.png",
+   "10d": "/images/icons/rain1.png",
+   "10n": "/images/icons/rain2.png",
+   "11d": "/images/icons/thunderStorm1.png",
+   "11n": "/images/icons/thunderStorm1.png",
+   "13d": "/images/icons/snow1.png",
+   "13n": "/images/icons/snow1.png",
+   "50d": "/images/icons/mist1.png",
+   "50n": "/images/icons/mist1.png",
+};
+export default iconWeather;
